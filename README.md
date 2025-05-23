@@ -22,3 +22,4 @@ Application №2
 ![Image](https://github.com/user-attachments/assets/288f3c5f-0bf7-493d-9308-9a66371f12b4)
 
 ************** 
+[![Maintainability](https://api.codeclimate.com/v1/badges/your_badge_id/maintainability)](https://codeclimate.com/projects/your_project_id/maintainability)
