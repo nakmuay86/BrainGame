@@ -23,3 +23,5 @@ Application №2
 
 ************** 
 
+CodeClimate Result:
+![Image](https://github.com/user-attachments/assets/29b45c10-ba8d-4a9a-99fb-82fc4be787bc)
