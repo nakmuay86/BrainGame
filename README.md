@@ -1,5 +1,6 @@
 # BrainGame
 ![Static Badge](https://img.shields.io/badge/damnboy-thatwasreallygood-blue)
+
 BrainGame for practice.
 
 Application №1
@@ -28,4 +29,6 @@ CodeClimate Result:
 ![Image](https://github.com/user-attachments/assets/29b45c10-ba8d-4a9a-99fb-82fc4be787bc)
 
 follow to:
-![GitHub followers](https://img.shields.io/github/followers/user?style=for-the-badge&logo=x&labelColor=black)
+
+![GitHub followers](https://img.shields.io/github/followers/user?style=for-the-badge&logo=x&labelColor=black&link=https%3A%2F%2Fx.com%2Findeadmau5)
+
